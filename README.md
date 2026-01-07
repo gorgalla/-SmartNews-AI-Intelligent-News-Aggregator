@@ -1,3 +1,5 @@
+[ACTUALMENTE EN DESARROLLO]
+
 SmartNews AI es una herramienta de línea de comandos (CLI) desarrollada en Python que permite centralizar la búsqueda de noticias globales y generar resúmenes inteligentes utilizando modelos de lenguaje de OpenAI (GPT).
 
 Este proyecto fue diseñado aplicando prácticas de Python profesional, priorizando la modularidad, el tipado estático y el manejo robusto de errores.
